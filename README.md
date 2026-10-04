@@ -132,8 +132,8 @@ Watermark: KELOMPOK 26
 ## Struktur Repository
 
 ```
-AZZAM-ZUHAIR_KELOMPOK26/
-├── index.cpp
+AZZAM_Modul4_Kel26/
+├── Tugas Laporan Praktikum BAB V.cpp
 └── README.md
 ```
 
